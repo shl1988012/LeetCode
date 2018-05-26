@@ -16,6 +16,6 @@ import java.util.List;
  */
 public class LeetCode_30 {
 	public List<Integer> findSubstring(String s, String[] words) {
-
+		return null ;
 	}
 }

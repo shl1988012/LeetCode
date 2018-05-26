@@ -26,6 +26,6 @@ public class LeetCode_10 {
 		if(s==null || p==null){
 			return false ;
 		}
-		
+		return true;
 	}
 }
