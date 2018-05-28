@@ -33,6 +33,6 @@ public class LeetCode_1 {
 			System.out.print(anw[i]+"  ");
 		}
 	}
-	//feeeeeegqqrjnfjj
+	//fccccccgqqrjnfjj
 	//cae
 }
