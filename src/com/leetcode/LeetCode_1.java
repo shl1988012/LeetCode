@@ -34,4 +34,5 @@ public class LeetCode_1 {
 		}
 	}
 	//fkjdsjtgdslfjjjijnfjj
+	//abcdefg
 }
