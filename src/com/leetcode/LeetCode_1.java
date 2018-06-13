@@ -33,5 +33,6 @@ public class LeetCode_1 {
 			System.out.print(anw[i]+"  ");
 		}
 	}
-	//这是dev分支
+	//这是dev分支 --更新下dev
+	//再合并下master
 }
