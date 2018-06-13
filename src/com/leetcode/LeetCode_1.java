@@ -33,9 +33,11 @@ public class LeetCode_1 {
 			System.out.print(anw[i]+"  ");
 		}
 	}
-    //faaaaagqqrjnfjj
-    //abc
-	//改了develop分支的代码
-	//aabbcc-dev
+    //这是master分支
+	//我来合并develop分支
+	//结果为：
+	//这是dev分支
+	//这是master分支
+	//我来合并develop分支
 
 }
