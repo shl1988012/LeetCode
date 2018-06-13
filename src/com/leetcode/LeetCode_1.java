@@ -35,4 +35,10 @@ public class LeetCode_1 {
 	}
 	//这是dev分支 --更新下dev
 	//再合并下master
+    //这是master分支
+	//我来合并develop分支
+	//结果为：
+	//这是dev分支
+	//这是master分支
+	//我来合并develop分支
 }
