@@ -40,6 +40,4 @@ public class LeetCode_1 {
 	//这是dev分支
 	//这是master分支
 	//我来合并develop分支
-
-
 }
