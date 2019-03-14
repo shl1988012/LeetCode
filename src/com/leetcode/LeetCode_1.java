@@ -33,8 +33,5 @@ public class LeetCode_1 {
 			System.out.print(anw[i]+"  ");
 		}
 	}
-	//最新的dev分支代码
-    //这是master分支
-    //mergeing
-    //修改1
+	//commit4
 }
